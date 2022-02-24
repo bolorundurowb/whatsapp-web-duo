@@ -4,6 +4,7 @@
         x:Class="whatsapp_web_duo.MainWindow"
         Width="800"
         Height="850"
+        Icon="Assets\app-icon.ico"
         Title="WhatApp Web Duo">
     <Window.Styles>
     </Window.Styles>
